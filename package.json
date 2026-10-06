@@ -1,0 +1,12 @@
+{
+  "name": "@gideon/quote-ghost-detector",
+  "version": "1.0.0",
+  "description": "Quote Ghost Detector: Monitors active proposal and quote pipelines, enforces 48-hour follow-up SLAs, and quantifies unattended revenue at risk.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "node src/index.js"
+  },
+  "author": "Gideon Autonomous Workforce",
+  "license": "MIT"
+}
