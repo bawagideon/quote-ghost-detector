@@ -7,6 +7,17 @@
 
 ---
 
+## 🚀 Live Interactive Simulator & Proof
+
+[![Quote Ghost Detector & Aging Radar Live Interactive Simulator](assets/screenshot.png)](https://gideonbawa-website.netlify.app/simulators/quote-ghost-detector/)
+
+* 🌐 **Live In-Browser Simulator:** [https://gideonbawa-website.netlify.app/simulators/quote-ghost-detector/](https://gideonbawa-website.netlify.app/simulators/quote-ghost-detector/)
+* 💼 **Portfolio Showcase:** [https://gideonbawa-website.netlify.app/#work](https://gideonbawa-website.netlify.app/#work)
+* 🛡️ **Verified QA Evidence:** HMAC-SHA256 Signed Contract (`ev-qa-contract-1791285928367-quote-ghost-detector`)
+
+---
+
+
 ## 💸 Problem & Economic Pain
 A business sends 200 quotes worth $184,000. 120 never receive a follow-up touch.
 Prospects don't ghost because they hate the offer — they get busy, forget, and buy elsewhere unless guided to the finish line.
